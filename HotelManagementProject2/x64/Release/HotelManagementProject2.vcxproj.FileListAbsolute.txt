@@ -1,0 +1,9 @@
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.vcxproj.AssemblyReference.cache
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.Add EmployeeForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.AdminForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.ChangePasswordForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.Login.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.MyUserControl.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.SplashForm1.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.StaffForm1.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Release\HotelManagementProject2.vcxproj.GenerateResource.cache
