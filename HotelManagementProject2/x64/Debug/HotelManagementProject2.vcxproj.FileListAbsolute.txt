@@ -1,0 +1,8 @@
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.vcxproj.AssemblyReference.cache
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.Add EmployeeForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.AdminForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.ChangePasswordForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.ChangePasswordStaffFormForm.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.Login.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.StaffForm1.resources
+C:\Users\win 10\source\repos\HotelManagementProject2\HotelManagementProject2\x64\Debug\HotelManagementProject2.vcxproj.GenerateResource.cache
