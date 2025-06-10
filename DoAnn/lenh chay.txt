@@ -1,0 +1,2 @@
+g++ main.cpp Room.cpp Hotel.cpp Employee.cpp -o HotelApp.exe
+ chcp 65001; .\HotelApp.exe
