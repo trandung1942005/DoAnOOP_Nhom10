@@ -1,0 +1,2 @@
+Check-in | Room: 100 | Name: HoNgocTu | Phone number: 0388653410 | Days: 5 | Total price: 500 | Status: Unpaid
+Check-out | Room: 100 | Total paid: 500
